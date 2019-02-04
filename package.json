@@ -1,0 +1,22 @@
+{
+  "name": "food-delivery",
+  "version": "1.0.0",
+  "description": "Food delivery assignment for Tappointment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanszonja/food-delivery.git"
+  },
+  "author": "Szonja Bogdán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanszonja/food-delivery/issues"
+  },
+  "homepage": "https://github.com/bogdanszonja/food-delivery#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
